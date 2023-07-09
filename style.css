@@ -1,0 +1,19 @@
+html {
+    cursor: none;
+    overflow: hidden;
+    background: black;
+}
+
+.box {
+    position: absolute;
+    animation: rotate 2.5s infinite linear;
+    margin: 0;
+    overflow: hidden;
+}
+  
+@keyframes rotate {
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
