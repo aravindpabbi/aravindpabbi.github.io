@@ -51,7 +51,7 @@ let Trail =function(options) {
 
 let options = {
     trailLength: 30,
-    size: 50,
+    size: 30,
     interval: 10,
     hueSpeed: 2
 };
